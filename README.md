@@ -9,21 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=piyush-1603&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-1603" />
 </p>
 
-
-<p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
-
-<p>
- <h1 align="center">Hi 👋, I'm Piyush Tharwani</h1>
-<h3 align="center">🚀 Passionate Coder | Open Source Contributor | Problem Solver</h3>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Debugging Meltdown" width="300"/>
-</p>
-
 <hr>
 
 <p align="center">
