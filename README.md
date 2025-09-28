@@ -1,49 +1,124 @@
 <h1 align="center">Hi 👋, I'm Piyush Tharwani</h1>
-<h3 align="center">## 🚀 Passionate Coder | Open Source Contributor | Problem Solver</h3>
+<h3 align="center">🚀 Passionate Coder | Open Source Contributor | Problem Solver</h3>
 
-
-![Debugging Meltdown](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-1603&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-1603" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush-1603" alt="piyush-1603" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Campus Quest](https://rishihood-campus-quest.vercel.app/)
-
-- 🌱 I’m currently learning **Advanced **JavaScript/TypeScript** concepts - **Go** for backend development and microservices - **React.js** and modern frontend frameworks - **Node.js** & building scalable backend APIs - **Open Source Contribution** workflows on GitHub - **AI/ML Basics** and integrating AI in projects**
-
-- 👯 I’m looking to collaborate on **Eduverse**
-
-- 🤝 I’m looking for help with **TaskFlow**
-
-- 👨‍💻 All of my projects are available at [- [Portfolio Website](https://piyushportfolio.com)](- [Portfolio Website](https://piyushportfolio.com))
-
-- 📝 I regularly write articles on [- Coming soon on [Dev.to](https://dev.to/) - Coming soon on [Medium](https://medium.com/)](- Coming soon on [Dev.to](https://dev.to/) - Coming soon on [Medium](https://medium.com/))
-
-- 💬 Ask me about **- Web Development (Frontend) - JavaScript / TypeScript - Open Source Contribution - Building side projects & hackathon ideas**
-
-- 📫 How to reach me **- Email: piyush16032006@gmail.com - LinkedIn:https://www.linkedin.com/in/piyushtharwani/**
-
-- 📄 Know about my experiences [- [My Resume](https://piyush-resume.com)](- [My Resume](https://piyush-resume.com))
-
-- ⚡ Fun fact **- I use dark mode because light attracts bugs 🦟 - I debug faster when I have coffee ☕**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piyushtharwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushtharwani" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/piyuhs-1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="piyuhs-1603" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/piyush_1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyush_1603" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Debugging Meltdown" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyush-1603&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-1603" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-1603&show_icons=true&locale=en&layout=compact" alt="piyush-1603" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush-1603&show_icons=true&locale=en" alt="piyush-1603" /></p>
+<p align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-1603&" alt="piyush-1603" /></p>
+<p>
+ <h1 align="center">Hi 👋, I'm Piyush Tharwani</h1>
+<h3 align="center">🚀 Passionate Coder | Open Source Contributor | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-1603&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-1603" /> </p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Debugging Meltdown" width="300"/>
+</p>
+
+<hr>
+
+<p align="center">
+  🔭 <b>Currently Working On:</b><br>
+  <a href="https://rishihood-campus-quest.vercel.app/"><img src="https://img.shields.io/badge/Campus%20Quest-FF69B4?style=for-the-badge&logo=appveyor" alt="Campus Quest"></a>
+</p>
+
+<p align="center">
+  🌱 <b>Currently Learning:</b><br>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" /> 
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" /> 
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+</p>
+
+<p align="center">
+  👯 <b>Looking to Collaborate On:</b><br>
+  <img src="https://img.shields.io/badge/Eduverse-6A5ACD?style=for-the-badge&logo=appveyor" />
+</p>
+
+<p align="center">
+  🤝 <b>Looking for Help With:</b><br>
+  <img src="https://img.shields.io/badge/TaskFlow-FF6347?style=for-the-badge&logo=appveyor" />
+</p>
+
+<p align="center">
+  👨‍💻 <b>Projects:</b><br>
+  <a href="https://piyushportfolio.com"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=readme" /></a>
+</p>
+
+<p align="center">
+  📝 <b>Writing Articles On:</b><br>
+  <a href="https://dev.to/"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to" /></a> 
+  <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium" /></a>
+</p>
+
+<p align="center">
+  💬 <b>Ask Me About:</b><br>
+  <img src="https://img.shields.io/badge/Web_Dev-FF4500?style=for-the-badge&logo=webcomponents" /> 
+  <img src="https://img.shields.io/badge/Open_Source-228B22?style=for-the-badge&logo=github" /> 
+  <img src="https://img.shields.io/badge/Side_Projects-DAA520?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  📫 <b>How to Reach Me:</b><br>
+  <a href="mailto:piyush16032006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/piyushtharwani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+<p align="center">
+  📄 <b>Resume:</b><br>
+  <a href="https://piyush-resume.com"><img src="https://img.shields.io/badge/My_Resume-20B2AA?style=for-the-badge&logo=readme" /></a>
+</p>
+
+<p align="center">
+  ⚡ <b>Fun Facts:</b><br>
+  <img src="https://img.shields.io/badge/Dark_Mode-2F4F4F?style=for-the-badge&logo=appveyor" /> 
+  <img src="https://img.shields.io/badge/Coffee_Debug-6F4E37?style=for-the-badge&logo=appveyor" />
+</p>
+
+<hr>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/piyushtharwani" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/piyuhs-1603" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/piyush_1603" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-1603&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush-1603&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-1603&" alt="GitHub Streak" />
+</p>
